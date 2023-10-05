@@ -16,7 +16,7 @@ Meu nome é Leonardo Longaray, sou brasileiro e estou no início da minha jornad
 - C ![C](https://img.shields.io/badge/profici%C3%AAncia-Intermedi%C3%A1rio-yellow)
 - MySQL Server (Python e Node.js) ![MySQL Server](https://img.shields.io/badge/profici%C3%AAncia-Iniciante%20a%20Intermedi%C3%A1rio-yellowgreen)
 
-  |=========================================================================================|
+  |========================================================================================|
 
 # Hello! 👋
 
