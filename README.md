@@ -28,14 +28,18 @@ My name is Leonardo Longaray, I am Brazilian and I'm at the beginning of my jour
 
 ## About Me
 - 🌎 Nationality: Brazilian
-- 💼 Profession: Developer (Beginner)
+- 💼 Profession: Junior Systems and Applications Analyst
 - 📚 Student of Analysis and Systems Development (EAD)
 
 ## Skills
-- HTML ![HTML](https://img.shields.io/badge/proficiency-Beginner-green)
-- CSS ![CSS](https://img.shields.io/badge/proficiency-Beginner-green)
-- JavaScript (Node.js) ![JavaScript](https://img.shields.io/badge/proficiency-Beginner-green)
-- Python ![Python](https://img.shields.io/badge/proficiency-Beginner%20to%20Intermediate-yellowgreen)
+- HTML ![HTML](https://img.shields.io/badge/proficiency-Advanced-brightgreen)
+- CSS ![CSS](https://img.shields.io/badge/proficiency-Intermediate-yellow)
+- JavaScript (Native) ![JavaScript](https://img.shields.io/badge/proficiency-Intermediate-yellow)
+- Node.js ![Node.js](https://img.shields.io/badge/proficiency-Basic-red)
+- jQuery ![jQuery](https://img.shields.io/badge/proficiency-Basic-red)
+- Python ![Python](https://img.shields.io/badge/proficiency-Advanced-brightgreen)
+- Django ![Django](https://img.shields.io/badge/proficiency-Advanced-brightgreen)
+- Django REST Framework ![Django REST](https://img.shields.io/badge/proficiency-Basic-red)
 - Java ![Java](https://img.shields.io/badge/proficiency-Basic-red)
-- C ![C](https://img.shields.io/badge/proficiency-Intermediate-yellow)
-- MySQL Server (Python and Node.js) ![MySQL Server](https://img.shields.io/badge/proficiency-Beginner%20to%20Intermediate-yellowgreen)
+- SQL ![SQL](https://img.shields.io/badge/proficiency-Intermediate-yellow)
+
