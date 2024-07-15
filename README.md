@@ -2,10 +2,6 @@
 
 Meu nome é Leonardo Longaray, sou brasileiro e estou no início da minha jornada como desenvolvedor.
 
-# Olá! 👋
-
-Meu nome é Leonardo Longaray, sou brasileiro e estou no início da minha jornada como desenvolvedor.
-
 ## Sobre Mim
 - 🌎 Nacionalidade: Brasileiro
 - 💼 Profissão: Analista de Sistemas e Aplicações Júnior
